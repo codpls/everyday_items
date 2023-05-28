@@ -1,0 +1,57 @@
+宠物
+dog	狗
+cat	猫
+rabbit	兔子
+hamster	仓鼠
+goldfish	金鱼
+家畜
+cow	牛
+sheep (复数形式：sheep)	羊
+pig	猪
+horse	马
+chicken	鸡
+野生动物
+fox	狐狸
+deer (复数形式：deer)	鹿
+mouse (复数形式：mice)	小老鼠
+rat	大老鼠
+frog	青蛙
+snake	蛇
+珍稀动物
+lion	狮子
+tiger	老虎
+monkey	猴子
+elephant	大象
+giraffe	长颈鹿
+bear	熊
+英语词汇
+➔	宠物	➔
+鸟类
+pigeon	鸽子
+crow	乌鸦
+dove	鸽子
+owl	猫头鹰
+eagle	老鹰
+昆虫
+ant	蚂蚁
+fly	苍蝇
+spider	蜘蛛
+bee	蜜蜂
+wasp	黄蜂
+butterfly	蝴蝶
+鱼类
+cod (复数形式：cod)	鳕鱼
+trout (复数形式：trout)	鲑鱼
+salmon (复数形式：salmon)	三文鱼
+tuna (复数形式：tuna)	吞拿鱼
+shark	鲨鱼
+crab	螃蟹
+描述动物的单词
+tail	尾巴
+fur	毛皮
+claw	（鸟兽的）爪，（螃蟹等的）螯
+paw	（猫狗等的）爪子
+hoof	蹄子
+mane	鬃毛
+trunk	象鼻
+snout	（动物的）鼻子
